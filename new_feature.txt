@@ -1,0 +1,4 @@
+I am A Data Scientist
+I have the skills like Python,Sql,maths,statistics,machine learning
+I am currently learning mlops
+My future target is to learn deep learning and nlp
